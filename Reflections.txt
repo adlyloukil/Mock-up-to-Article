@@ -1,0 +1,11 @@
+What new skills have you learned?
+In this project I have learned a new form of coding called HTML.I now know how to use Basic HTML elements and can follow the syntax of HTML accordingly.
+
+What has been easy?
+Honestly, HTML and Markdown are both relatively easy to use and understand. I can see with more time and practice, such as learning a few codes off by heart it would be a breeze.
+
+What has been difficult?
+The repetitiveness of some of the code has been difficult to deal with. I find myself sometimes procrastinating. I am sure there is a way to automate some of the closing tags to speed up my work flow, however I have yet to discover this. Maybe you could advise? I use Sublime Text 3, I did try and enable HTML closing tags through the package control and it does work howevever for example it would sometimes close the parragraph tag again for example instead of closing the bold tag making me go back and delete the parragraph closing tag to replace it with the bold closing tag. Frustrating yes, but won't stop me coding! :P
+
+How have you used the problem solving strategies from the first project to overcome challenges so far?
+I didn't get stuck throughout this project however I did use the "Developer Mindset" to persevere through some of the repetitive coding tasks during Project 2.
